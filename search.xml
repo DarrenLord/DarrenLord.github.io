@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>1 how to read a paper</title>
+      <link href="/2023/04/17/1-how-to-read-a-paper/"/>
+      <url>/2023/04/17/1-how-to-read-a-paper/</url>
+      
+        <content type="html"><![CDATA[<h1 id="HOW-TO-READ-A-PAPER"><a href="#HOW-TO-READ-A-PAPER" class="headerlink" title="HOW TO READ A PAPER"></a><center><a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">HOW TO READ A PAPER</a></center></h1><center>by S.Keshav</center><p>这篇文章是开栏第一作品，也是为后面阅读文献提供一个方法论。文章介绍了一种名为<strong>three pass</strong>的阅读方法。<br>其各个步骤的功效见下表：</p><table><thead><tr><th align="center">STEP</th><th align="center">FUNCTION</th></tr></thead><tbody><tr><td align="center"><em>first</em></td><td align="center">gives you a general idea about the paper</td></tr><tr><td align="center"><em>second</em></td><td align="center">lets you grasp the paper’s content</td></tr><tr><td align="center"><em>third</em></td><td align="center">helps you  understand the paper in depth</td></tr></tbody></table><h2 id="the-firth-pass"><a href="#the-firth-pass" class="headerlink" title="the firth pass"></a>the firth pass</h2><p>在这一步骤，需要花费5–10分钟。</p><blockquote><ol><li>认真阅读<strong>标题</strong>，<strong>摘要</strong>，<strong>引言</strong></li><li>阅读各个节标题</li><li>阅读讨论部分</li><li>扫一眼参考文献，标记你所读过的文章</li></ol></blockquote><p>在结束这一部分需要可以得到以下内容：</p><ul><li>文章类型，文章使用的方法</li><li>与哪些文献相关，分析问题利用到哪些理论知识</li><li>文章总结是否到位</li><li>文章主要贡献，即解决什么问题</li></ul><h2 id="the-second-pass"><a href="#the-second-pass" class="headerlink" title="the second pass"></a>the second pass</h2><p>这一部分需要全文阅读，但不要求精细，主要有两点要求：</p><blockquote><ol><li>仔细阅读文献中的<strong>figures</strong>，<strong>diagrams</strong>，<strong>illustrations</strong></li><li>标记未读过的文献，为后面更深了解该领域做基础工作</li></ol></blockquote><p>其中关注图标需要注意  </p><ul><li>否标记了坐标轴线</li><li>是否有给error bar以及结果是否具有显著性</li></ul><h2 id="the-third-pass"><a href="#the-third-pass" class="headerlink" title="the third pass"></a>the third pass</h2><p>这一节需要尝试<strong>virtually re-implement</strong>文章，也就是说利用作者所用的假设，自己再复现一个研究工作，并将其与文章进行比较，一次来更深地理解研究套路。</p><hr><p>最后文章还给出了一个如何进行文献调研的工作思路：</p><blockquote><ol><li>利用文献搜索引擎如<em>Google Scholar</em>、<em>CiteSeer</em>输入关键词获得三到五篇近期的文章。</li><li>执行first pass阅读方法获得对该领域工作的初步理解，随后阅读相关文献工作。<br>如果是找到相关文献综述优先阅读文献中枢，否者从参考文献中选择共同引用的文章以及同一作者的文章，这些便是该领域的关键文章。<br>之后在网上搜索这些关键研究者查找他们近期发表文章</li><li>在顶会上查看他们最新研究。</li></ol></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文献 2023 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文献 2023 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20230410-20230416</title>
+      <link href="/2023/04/17/20230410-20230416/"/>
+      <url>/2023/04/17/20230410-20230416/</url>
+      
+        <content type="html"><![CDATA[<h3 id="本周小记"><a href="#本周小记" class="headerlink" title="本周小记"></a>本周小记</h3><p>每次写小记，我都需要迅速地回忆下上周所做的一切事情，从实验，生活，情绪，反思这些个维度考虑，画面总是匆匆一闪，一不留神，就会再也抓不住。</p><p>这些日子我有些喜欢晚上做实验的感觉，一个人，静悄悄的，热热闹闹的，没有太多的束缚，随心所欲，时间任我支配。夜晚，是属于创作者的，肆意在自己的世界里畅想与遨游。万籁俱静静无声，是促进内心走向平静的重要环境，当一切静了下来，唯一活动着的才是世界的拥有者。</p><p>在平日里，可就不能享受到一个人的快乐，如同喧闹的天气注定要引来观光的游客……</p><p>在图书馆内，午休时刻，没有一丝力气去回忆过去的事情，只想伴着音乐与安静，好好地享受空洞无我的时候。我要闭上我的眼睛，缓慢我的呼吸，走向更深的平静。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly 2023 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Weekly 2023 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20230403-20230409</title>
       <link href="/2023/04/12/20230403-20230409/"/>
       <url>/2023/04/12/20230403-20230409/</url>
@@ -158,9 +208,21 @@
       <link href="/2023/03/12/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A/"/>
       <url>/2023/03/12/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="新板块——文献阅读报告"><a href="#新板块——文献阅读报告" class="headerlink" title="新板块——文献阅读报告"></a>新板块——文献阅读报告</h1><p>至此开设新板块，“文献阅读报告”，categories和tags都是以“文献 年份”为设置。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 文献 2023 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文献 2023 </tag>
+            
+        </tags>
       
     </entry>
     
