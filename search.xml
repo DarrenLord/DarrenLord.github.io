@@ -4,6 +4,81 @@
   
     
     <entry>
+      <title>20230424-20230430</title>
+      <link href="/2023/05/02/20230424-20230430/"/>
+      <url>/2023/05/02/20230424-20230430/</url>
+      
+        <content type="html"><![CDATA[<h3 id="本周小结"><a href="#本周小结" class="headerlink" title="本周小结"></a>本周小结</h3><p>从日记转为一周小结后，没想到现在也有15个记录了，也算是时光荏苒的一种表现吧哈哈。<br>这周为了五一假期，匆忙赶了些实验，照当时看好像结果都挺好的，也算是一种好事。<br>28号出发去黄山，29号开始登山。黄山之景，钟灵神秀，鬼斧神工，乱石穿空，重峦叠嶂。五绝之奇松，怪石，云海有幸观赏，温泉、冬雪是不合时宜的。<br>面对天下之大观，心境自然是豁达开朗，就是有些路段竟然堵车了，得等好久哈哈。</p><p>下次有机会得和家人再去看看，还有五岳。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly 2023 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Weekly 2023 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>5 A multiomic study uncovers a bZIP23PER1A-mediated detoxification pathway to enhance seed vigor in rice Wang et al</title>
+      <link href="/2023/04/27/5-A-multiomic-study-uncovers-a-bZIP23PER1A-mediated-detoxification-pathway-to-enhance-seed-vigor-in-rice-Wang-et-al/"/>
+      <url>/2023/04/27/5-A-multiomic-study-uncovers-a-bZIP23PER1A-mediated-detoxification-pathway-to-enhance-seed-vigor-in-rice-Wang-et-al/</url>
+      
+        <content type="html"><![CDATA[<h1 id="A-multiomic-study-uncovers-a-bZIP23PER1A-mediated-detoxification-pathway-to-enhance-seed-vigor-in-rice"><a href="#A-multiomic-study-uncovers-a-bZIP23PER1A-mediated-detoxification-pathway-to-enhance-seed-vigor-in-rice" class="headerlink" title="A multiomic study uncovers a bZIP23PER1A-mediated detoxification pathway to enhance seed vigor in rice"></a><center><a href="https://www.pnas.org/doi/10.1073/pnas.2026355119">A multiomic study uncovers a bZIP23PER1A-mediated detoxification pathway to enhance seed vigor in rice</a></center></h1><center><p><a href="https://www.pnas.org/doi/10.1073/pnas.2026355119#con5">Xian-Jun Song</a>,<br><a href="https://www.pnas.org/doi/10.1073/pnas.2026355119#con1">Wei-Qing Wang</a> et al</p></center><h2 id><a href="#" class="headerlink" title></a><img src="https://pic3.zhimg.com/80/v2-3660d1039e02dcb8af5112627c7b1756_720w.webp" alt="封面"></h2><h2 id="First-Pass"><a href="#First-Pass" class="headerlink" title="First Pass"></a>First Pass</h2><p>题目为：多组学研究揭示了 bZIP23-PER1A 介导的解毒途径以增强水稻种子活力</p><h3 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h3><h4 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h4><blockquote><p>种子活力与粮食产量以及种质资源挂钩，但是对于其蛋白编码与基因网络调控机制所知甚少</p></blockquote><h4 id="所做工作"><a href="#所做工作" class="headerlink" title="所做工作"></a>所做工作</h4><blockquote><ol><li>对两种不同种子活力的水稻进行转录组（RNA-seq）、靶向代谢分析<blockquote><p> RNA-seq分析出几个基因网络节点，包括转录因子bZIP23和bZIP42。</p></blockquote></li></ol></blockquote><blockquote><ol start="2"><li>过表达bZIP42增强种子活力，敲除则活力降低。</li><li>过表达<em>PER1A</em>增强种子活力，敲除则降低。</li><li>证明bZIP42与<em>PER1A</em>的直接相互作用<blockquote><p>bZIP42激活<em>PER1A</em>表达</p></blockquote></li><li>揭示种子活力变异的遗传结构，发现bZIP42-PER1A介导的解毒途径<blockquote><p>该途径可以增强水稻性状</p></blockquote></li></ol></blockquote><h3 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h3><p>Reactive oxygen species(ROS, 活性氧)具有毒性，会胁迫到蛋白质、DNA、脂质，是调节种子活力的关键因素。植物对其有许多调控机制，在拟南芥同源中就有一种<em>NnPER1</em>可以增强种子活力和寿命，<strong>但是<em>PER1</em>与ROS相关调控种子活力的机制还不清楚</strong>。<br>脱落酸（ABA）在调节种子活力有重要作用，<em>abscisic acid insensitive 3</em>(abi3)蛋白产物是ABA信号通路重要的下游物质。<em>ABSCISIC ACID INSENSITIVE 5</em>(<em>ABI5</em>)编码的bZIP转录因子是豆科植物种子活力的调节因子。  </p><blockquote><ol><li>前人研究中，<em>abi3</em>突变下<em>ATPER1</em>转录水平降低<blockquote><p>ABI5可能与<em>AtPER1</em>启动子结合</p></blockquote></li><li>abi3&#x2F;dog1（DELAY OF GERMINATION 1）双突对ABA处理不敏感</li><li>abi3突变体对ABA处理不敏感</li></ol></blockquote><h3 id="各小节标题"><a href="#各小节标题" class="headerlink" title="各小节标题"></a>各小节标题</h3><blockquote><ol><li>不同种子活力的转录组分析</li><li>种子代谢组变异与种子活力改变的关联</li><li>转录因子bZIP23和bZIP42对水稻种子活力有重要影响</li><li>过氧化物还氧蛋白PER1A也是水稻种子活力正向调节因子</li><li><em>PER1A</em>由转录因子bZIP23和bZIP42直接调控</li><li>bZIP23-PER1A调节模块通过ABA信号途径进行</li></ol></blockquote><hr><p>拓展推荐：<a href="https://zhuanlan.zhihu.com/p/500655720">详细解读 | IF11！中科院宋献军团队水稻种子活力最新研究成果见刊PNAS</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文献 2023 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文献 2023 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>4 Engineering of NEMO as calcium indicators with large dynamics and high sensitivity Youjun Wang</title>
+      <link href="/2023/04/24/4-Engineering-of-NEMO-as-calcium-indicators-with-large-dynamics-and-high-sensitivity-Youjun-Wang/"/>
+      <url>/2023/04/24/4-Engineering-of-NEMO-as-calcium-indicators-with-large-dynamics-and-high-sensitivity-Youjun-Wang/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Engineering-of-NEMO-as-calcium-indicators-with-large-dynamics-and-high-sensitivity"><a href="#Engineering-of-NEMO-as-calcium-indicators-with-large-dynamics-and-high-sensitivity" class="headerlink" title="Engineering of NEMO as calcium indicators with large dynamics and high sensitivity"></a><center><a href="https://www.nature.com/articles/s41592-023-01852-9">Engineering of NEMO as calcium indicators with large dynamics and high sensitivity</a></center></h1><center><p><a href="https://www.nature.com/articles/s41592-023-01852-9#auth-Youjun-Wang">Youjun Wang</a>,<br><a href="https://www.nature.com/articles/s41592-023-01852-9#auth-Xiaohui-Zhang">Xiaohui Zhang</a>,<br><a href="https://www.nature.com/articles/s41592-023-01852-9#auth-Ai_Hui-Tang">Ai-Hui Zhang</a></p></center><p><img src="https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2023/0422/266e712cj00rtiqp6005wd200u000d1g00hw007r.jpg&thumbnail=660x2147483647&quality=80&type=jpg" alt="封面"></p><hr><h2 id="First-Pass"><a href="#First-Pass" class="headerlink" title="First Pass"></a>First Pass</h2><p>文章标题为：开发了采用全新策略构建的新型高灵敏钙离子探针</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文献 2023 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文献 2023 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20230417-20230423</title>
       <link href="/2023/04/24/20230417-20230423/"/>
       <url>/2023/04/24/20230417-20230423/</url>
